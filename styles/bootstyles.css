@@ -1,0 +1,38 @@
+.common{
+    position:absolute
+
+}
+
+.header{
+    text-size-adjust: 500px;
+    text-align:center
+    top: 5px; 
+    left: 5px; 
+    right: 5px;
+    height: 100px;
+    border-bottom: solid 1px #555555; 
+}
+
+.body {
+    top: 114px; 
+    bottom: 64px;
+    right: 114px; 
+    left: 114px; 
+    padding-right: 5px;
+}
+
+.footer{
+    bottom: 5px; 
+    height: 50px;
+    left: 5px;
+    right: 5px; 
+    font-size: 14px; 
+    color: #999999; 
+    text-align: center; 
+    position: fixed; 
+}
+
+.tableaustyle{
+    width: 500px
+    
+}
