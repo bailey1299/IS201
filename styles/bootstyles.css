@@ -1,0 +1,49 @@
+
+.tableaustyle{
+    width: 500px 
+}
+
+header{
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(5rem + 20px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+
+body{
+    position:relative;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+footer{
+    position: relative;
+    margin-bottom: 1rem;
+    padding-top: calc(5rem + 20px);
+    padding-bottom: 2rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+    text-align: center;
+  }
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.tableauBG { 
+    background-size: auto;
+    vertical-align: top;
+}
+
+.footerstyles{
+    font-weight:bold
+}

@@ -1,0 +1,15 @@
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2{
+    color: rgb(142, 148, 146);
+}
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.italic { 
+    font-style: italic; 
+}
